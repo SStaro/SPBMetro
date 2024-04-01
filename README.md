@@ -10,7 +10,7 @@ First you need to type the departure station, then the destination station. The 
 To download the project, you need to download the archived folder with the project or clone the repository using the following command:
 
 `
-git clone https://github.com/SStaro/searchengine.git <path-to-folder-where-to-clone-repository>
+https://github.com/SStaro/SPBMetro.git <path-to-folder-where-to-clone-repository>
 `
 > [!IMPORTANT]
 >File `/resources/map.json` contains a list of the metro lines and stations.
